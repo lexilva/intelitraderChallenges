@@ -1,0 +1,14 @@
+D:\projectDotNet\desafio3\bin\Debug\net8.0\desafio3.exe
+D:\projectDotNet\desafio3\bin\Debug\net8.0\desafio3.deps.json
+D:\projectDotNet\desafio3\bin\Debug\net8.0\desafio3.runtimeconfig.json
+D:\projectDotNet\desafio3\bin\Debug\net8.0\desafio3.dll
+D:\projectDotNet\desafio3\bin\Debug\net8.0\desafio3.pdb
+D:\projectDotNet\desafio3\obj\Debug\net8.0\desafio3.GeneratedMSBuildEditorConfig.editorconfig
+D:\projectDotNet\desafio3\obj\Debug\net8.0\desafio3.AssemblyInfoInputs.cache
+D:\projectDotNet\desafio3\obj\Debug\net8.0\desafio3.AssemblyInfo.cs
+D:\projectDotNet\desafio3\obj\Debug\net8.0\desafio3.csproj.CoreCompileInputs.cache
+D:\projectDotNet\desafio3\obj\Debug\net8.0\desafio3.dll
+D:\projectDotNet\desafio3\obj\Debug\net8.0\refint\desafio3.dll
+D:\projectDotNet\desafio3\obj\Debug\net8.0\desafio3.pdb
+D:\projectDotNet\desafio3\obj\Debug\net8.0\desafio3.genruntimeconfig.cache
+D:\projectDotNet\desafio3\obj\Debug\net8.0\ref\desafio3.dll
