@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\projectDotNet\\desafio1\\desafio1.csproj",
+      "projectUniqueName": "D:\\projectDotNet\\desafio1\\desafio1\\desafio1.csproj",
       "projectName": "desafio1",
-      "projectPath": "D:\\projectDotNet\\desafio1\\desafio1.csproj",
+      "projectPath": "D:\\projectDotNet\\desafio1\\desafio1\\desafio1.csproj",
       "packagesPath": "C:\\Users\\lexil\\.nuget\\packages\\",
-      "outputPath": "D:\\projectDotNet\\desafio1\\obj\\",
+      "outputPath": "D:\\projectDotNet\\desafio1\\desafio1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\lexil\\AppData\\Roaming\\NuGet\\NuGet.Config"

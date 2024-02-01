@@ -1,6 +1,6 @@
 ﻿
 using System.Globalization;
-using System.Text;
+using System;
 
 string inverteBits(string strBin){
     string str=strBin.Substring(6,1);
@@ -46,11 +46,11 @@ for (int i = 0; i < aux.Length; i++)
 
 for (int i = 0; i < resposta.Length; i=i+9)
 {
-    int a = Int32.Parse(resposta.Substring(3+i,1));
-    int b = Int32.Parse(resposta.Substring(4+i,1));
-    int c = Int32.Parse(resposta.Substring(5+i,1));
-    int d = Int32.Parse(resposta.Substring(6+i,1));
-    int e = Int32.Parse(resposta.Substring(7+i,1));
+    int a = Convert.ToInt32(resposta.Substring(3+i,1));
+    int b = Convert.ToInt32(resposta.Substring(4+i,1));
+    int c = Convert.ToInt32(resposta.Substring(5+i,1));
+    int d = Convert.ToInt32(resposta.Substring(6+i,1));
+    int e = Convert.ToInt32(resposta.Substring(7+i,1));
     int f = a*16 + b*8 + c*4 +d*2+ e*1;
     Console.Write(alfabeto[f]);
 }

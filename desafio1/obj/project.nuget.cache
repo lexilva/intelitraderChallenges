@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qoMTwq0eG2zgxYB7R+/VAZiGU15erYh++RP1zv3L3Eff3eQjAKTqIgPJhxsbQZ3+3psoUgVGyAxn7eDa57ceMw==",
+  "dgSpecHash": "PDIyeG/tf1kskv7SOmcSQ7GRZcfmxOYXer1DEROvC/cqCCjT+fz0MCFf7CXJihRbD/vmQQp9y3otATRfWWbPsw==",
   "success": true,
-  "projectFilePath": "D:\\projectDotNet\\desafio1\\desafio1.csproj",
+  "projectFilePath": "D:\\projectDotNet\\desafio1\\desafio1\\desafio1.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
